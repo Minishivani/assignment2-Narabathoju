@@ -11,7 +11,7 @@ which is thirteen miles from Airport, we can go by tram, bus, shuttle or town ca
 3. head north towards salar jung museum.
 4. then we can see the building of museum on left side of main road.
 5. finally arrived to the distination.
-# Visting places from museum
+** Visting places from museum**
 - The Golkonda fort fort is 6.2 miles from museum.
 - The Mecca masjid is 2.0 miles from museum.
 - The chowmahalla palace is 1.6 miles from museum.
