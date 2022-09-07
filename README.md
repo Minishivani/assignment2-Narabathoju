@@ -3,7 +3,7 @@
 ###### My prefered museum is salar jung museum
 > The Salar Jung Museum is an **art museum** located at Dar-ul-Shifa, on the southern bank of the Musi River in the city of Hyderabad, Telangana, India. It is one of the notable National Museums of India. Originally a private art __collection of the Salar Jung family__, it was endowed to the nation after the death of Salar Jung III. It was inaugurated on 16 December 1951.
 ***
-# Airport to museum direction
+# Routing steps from Museum to Airport
 Rajiv gandhi airport is the closest airport to the salar jung museum.
 which is thirteen miles from Airport, we can go by tram, bus, shuttle or town car.
 1. museum is located near to the shah ali band road.
