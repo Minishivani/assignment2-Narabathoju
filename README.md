@@ -28,3 +28,8 @@ This places introduced in the table mostly gives preference to nature, architect
 |BANGLORE|Assembly |8am-6pm  |
 |CHENNAI|Adi ypgi  |8am-6pm  |
 |GOA | Palolem Beach| 7am-7pm|
+-----
+# Pithy Quotes
+>"*The greatest glory in living lies not in never falling, but in rising every time we fall*"-Nelson Mandela.
+
+>"*If life were predictable it would cease to be life, and be without flavor*"-Eleanor Roosevelt
