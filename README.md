@@ -34,7 +34,7 @@ This places introduced in the table mostly gives preference to nature, architect
 
 >"If life were predictable it would cease to be life, and be without flavor"-*Eleanor Roosevelt*
 ---
-# Code snippet
+# Code snippet- htaccess
 [Allow/deny image hotlinking](https://stackoverflow.com/questions/1245869/allow-deny-image-hotlinking-with-htaccess)
 
 <br>
