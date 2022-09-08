@@ -18,3 +18,13 @@ which is thirteen miles from Airport, we can go by tram, bus, shuttle or town ca
 - The chowmahalla palace is 1.6 miles from museum.
 
 ![Aboutme](Aboutme.md)
+
+# Tourist Attractions
+This places introduced in the table mostly gives preference to nature, architecture and historical ethics. this places timelines and location name is mentioned below:
+
+|City|Location|Visiting hours|
+|---|---------|--------------|
+|HYDERABAD|Charminar|4am-6pm |
+|BANGLORE|Assembly |8am-6pm  |
+|CHENNAI|Adi ypgi  |8am-6pm  |
+|GOA | Palolem Beach| 7am-7pm|
