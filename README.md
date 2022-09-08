@@ -9,7 +9,7 @@ which is thirteen miles from Airport, we can go by tram, bus, shuttle or town ca
 1. Turn left on to shah ali banda road.
 2. moving Straight towards falaknuma road.
 3. head north towards. turn right onto Airport Approach road.
-4. Take a round about third e exit.
+4. Take a round about third exit.
 5. left said is the distination .
 
 **Visting places from museum**
