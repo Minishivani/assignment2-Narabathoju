@@ -33,3 +33,18 @@ This places introduced in the table mostly gives preference to nature, architect
 >"The greatest glory in living lies not in never falling, but in rising every time we fall"-*Nelson Mandela.*
 
 >"If life were predictable it would cease to be life, and be without flavor"-*Eleanor Roosevelt*
+---
+# Code snippet
+[Allow/deny image hotlinking](https://stackoverflow.com/questions/1245869/allow-deny-image-hotlinking-with-htaccess)
+
+<br>
+
+```
+RewriteEngine On
+RewriteCond %{HTTP_REFERER} !^http://(.+\.)?yourdomain\.com/ [NC]
+RewriteCond %{HTTP_REFERER} !^$
+RewriteRule .*\.(jpg|gif|bmp|png)$ /images/dontsteal.jpg [L]
+
+```
+Link to the snippet code [Prevent Image Hotlinking](https://css-tricks.com/snippets/htaccess/prevent-image-hotlinking/) l
+
