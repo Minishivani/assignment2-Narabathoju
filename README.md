@@ -6,11 +6,11 @@
 # Routing steps from Museum to Airport
 Rajiv gandhi airport is the closest airport to the salar jung museum.
 which is thirteen miles from Airport, we can go by tram, bus, shuttle or town car.
-1. museum is located near to the shah ali band road.
-2. Straight towards falaknuma road
-3. head north towards salar jung museum.
-4. then we can see the building of museum on left side of main road.
-5. finally arrived to the distination.
+1. Turn left on to shah ali banda road.
+2. moving Straight towards falaknuma road.
+3. head north towards. turn right onto Airport Approach road.
+4. Take a round about third e exit.
+5. left said is the distination .
 
 **Visting places from museum**
 - The Golkonda fort fort is 6.2 miles from museum.
